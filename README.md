@@ -7,29 +7,6 @@ I'm building at the intersection of AI product management and developer tooling 
 ## What I'm Working On
 
 ### 🔬 Provenance — An AI GitHub-to-Portfolio Engine
-> *"GitHub is a repository platform, not a reputation platform."*
-
-A full product case study I'm building from the ground up to demonstrate end-to-end AI PM thinking:
-
-- **[Market Research Report](link)** — Competitive analysis of 
-  DINQ, Peerlist, Polywork, Read.cv; TAM/SAM/SOM sizing anchored 
-  to GitHub's 180M developer surface; monetization benchmarking 
-  across Topmate, Gumroad, Maven
-- **[Stage 2 PRD](link)** — Full product requirements doc covering 
-  the AI Narrative Engine (tiered RAG → Agentic architecture), 
-  STAR/ADR narrative frameworks, GitHub OAuth verification logic, 
-  edge case handling for empty repos and sparse READMEs, and 
-  explicit scope freeze to prevent creep
-- **[UI/UX Vision](link)** — Design brief + interactive React 
-  prototype of the portfolio output page; editorial dark aesthetic 
-  built around the core insight that *the design must look 
-  trustworthy, not impressive*
-- **[Live Prototype](link)** — Working portfolio page with 
-  streaming narrative generation, provenance panels, confidence 
-  scoring, and consultation modal
-
-The north star metric: **portfolios published with ≥1 
-AI-generated, human-verified case study**.
 
 ---
 
