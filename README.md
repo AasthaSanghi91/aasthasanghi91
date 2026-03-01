@@ -6,7 +6,7 @@ I'm building at the intersection of AI product management and developer tooling 
 
 ## What I'm Working On
 
-### 🔬 Provenance.AI — An AI GitHub-to-Portfolio Engine
+### 🔬 Provenance — An AI GitHub-to-Portfolio Engine
 > *"GitHub is a repository platform, not a reputation platform."*
 
 A full product case study I'm building from the ground up to demonstrate end-to-end AI PM thinking:
@@ -50,7 +50,7 @@ AI-generated, human-verified case study**.
 ## About Me
 
 - 🧠 Studying AI PM craft by building real products, not completing certificates
-- 📄 Currently developing [PRODUCT_NAME] as a working demonstration of AI product thinking — market research through to shipped prototype
+- 📄 Currently developing ProvenanceAI as a working demonstration of AI product thinking — market research through to shipped prototype
 - 🎯 Targeting AI PM roles where the job is to make powerful models actually useful to real people
 - 📬 I write about AI product decisions, LLM architecture tradeoffs, and the design of trustworthy AI systems
 - 💬 Always interested in talking to engineers building with LLMs and PMs navigating the "what should the AI actually do?" question
